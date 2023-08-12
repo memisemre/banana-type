@@ -1,9 +1,5 @@
-const App= () => {
-  return (
-    <main>
-      <h1>Homepage</h1>
-    </main>
-  );
-}
+const App = () => {
+  return <main>Banana Type</main>;
+};
 
 export default App;
